@@ -1,10 +1,29 @@
-# Angular8PaginationExample
+# Angular 8 Pagination example using ngx-pagination
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+For more detail, please visit:
+> [Angular 8 Pagination (server-side) with ngx-pagination example](https://bezkoder.com/ngx-pagination-angular-8/)
+
+> [Angular 8 CRUD application example with Web API](https://bezkoder.com/angular-crud-app/)
+
+Fullstack with Node.js Express:
+> [Angular 8 + Node.js Express + MySQL](https://bezkoder.com/angular-node-express-mysql/)
+
+> [Angular 8 + Node.js Express + PostgreSQL](https://bezkoder.com/angular-node-express-postgresql/)
+
+> [Angular 8 + Node.js Express + MongoDB](https://bezkoder.com/angular-mongodb-node-express/)
+
+Fullstack with Spring Boot:
+> [Angular 8 + Spring Boot + MySQL/PostgreSQL](https://bezkoder.com/angular-spring-boot-crud/)
+
+> [Angular 8 + Spring Boot + MongoDB](https://bezkoder.com/angular-spring-boot-mongodb/)
+
+Fullstack with Django:
+
+> [Angular 8 + Django Rest Framework](https://bezkoder.com/django-angular-crud-rest-framework/)
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
