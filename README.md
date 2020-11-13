@@ -5,6 +5,17 @@ For more detail, please visit:
 
 > [Angular 8 CRUD application example with Web API](https://bezkoder.com/angular-crud-app/)
 
+Server side Pagination for this app:
+> [Node.js Express Pagination with MySQL](https://bezkoder.com/node-js-sequelize-pagination-mysql/)
+
+> [Node.js Express Pagination with PostgreSQL](https://bezkoder.com/node-js-pagination-postgresql/)
+
+> [Node.js Express Pagination with MongoDB](https://bezkoder.com/node-js-mongodb-pagination/)
+
+> [Spring Boot Pagination and Filter example](https://bezkoder.com/spring-boot-pagination-filter-jpa-pageable/)
+
+> [Spring Boot MongoDB Pagination example with Spring Data](https://bezkoder.com/spring-boot-mongodb-pagination/)
+
 Fullstack with Node.js Express:
 > [Angular 8 + Node.js Express + MySQL](https://bezkoder.com/angular-node-express-mysql/)
 
@@ -13,13 +24,20 @@ Fullstack with Node.js Express:
 > [Angular 8 + Node.js Express + MongoDB](https://bezkoder.com/angular-mongodb-node-express/)
 
 Fullstack with Spring Boot:
-> [Angular 8 + Spring Boot + MySQL/PostgreSQL](https://bezkoder.com/angular-spring-boot-crud/)
+> [Angular 8 + Spring Boot + MySQL](https://bezkoder.com/angular-spring-boot-crud/)
+
+> [Angular 8 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-spring-boot-postgresql/)
 
 > [Angular 8 + Spring Boot + MongoDB](https://bezkoder.com/angular-spring-boot-mongodb/)
 
 Fullstack with Django:
 
 > [Angular 8 + Django Rest Framework](https://bezkoder.com/django-angular-crud-rest-framework/)
+
+Integration (run back-end & front-end on same server/port)
+> [How to Integrate Angular 8 with Node.js Restful Services](https://bezkoder.com/integrate-angular-8-node-js/)
+
+> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
 
 ## Development server
 
