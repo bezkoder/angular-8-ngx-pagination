@@ -5,6 +5,8 @@ For more detail, please visit:
 
 > [Angular 8 CRUD application example with Web API](https://bezkoder.com/angular-crud-app/)
 
+> [Angular 8 JWT Authentication with Web Api example](https://bezkoder.com/angular-jwt-authentication/)
+
 Server side Pagination for this app:
 > [Node.js Express Pagination with MySQL](https://bezkoder.com/node-js-sequelize-pagination-mysql/)
 
